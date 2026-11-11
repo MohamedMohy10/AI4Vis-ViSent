@@ -1,0 +1,33 @@
+{
+    "team_name": "ViSent",
+    "students": [
+        {
+            "student_id": "k12525931",
+            "first_name": "First",
+            "last_name": "Last",
+            "email": "first.last@mail.com",
+            "github_user": "mygitusername"
+        },
+        {
+            "student_id": "k12541594",
+            "first_name": "First",
+            "last_name": "Last",
+            "email": "first.last@mail.com",
+            "github_user": "mygitusername"
+        },
+      {
+            "student_id": "k12453151",
+            "first_name": "First",
+            "last_name": "Last",
+            "email": "first.last@mail.com",
+            "github_user": "mygitusername"
+        },
+      {
+            "student_id": "k11735642",
+            "first_name": "Benjamin",
+            "last_name": "Kattnig",
+            "email": "mail@kattnig.net",
+            "github_user": "quazyray"
+        },
+    ]
+}
