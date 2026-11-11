@@ -1,0 +1,25 @@
+{
+    "team_name": "ViSent",
+    "students": [
+        {
+            "first_name": "First",
+            "last_name": "Last",
+            "workload": 0.25
+        },
+        {
+            "first_name": "First",
+            "last_name": "Last",
+            "workload": 0.25
+        },
+        {
+            "first_name": "First",
+            "last_name": "Last",
+            "workload": 0.25
+        },
+        {
+            "first_name": "Benjamin",
+            "last_name": "Kattnig",
+            "workload": 0.25
+        },
+    ]
+} 
