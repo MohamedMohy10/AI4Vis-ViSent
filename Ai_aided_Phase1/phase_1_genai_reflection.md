@@ -1,5 +1,9 @@
 # Phase I: GenAI Usage Reflection Report
 
+**AI-Aided Pair:**
+  - Student A (Sahil Sahil / K12541594)
+  - Student B (Name / Student ID) 
+
 ## Workflow Velocity & Breadth
 Leveraging GenAI significantly sped up setup time for data ingestion, string parsing, and plot rendering. Rather than manually referencing Seaborn documentation or boilerplate pipeline syntax, we bootstrapped the experimental setup immediately. This efficiency allowed us to allocate more time to designing targeted synthetic edge cases (e.g., multi-clause sentences combining negations with contrastive modifiers).
 
